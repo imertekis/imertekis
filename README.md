@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Ioakeim 👋
 
-<!--
-**imertekis/imertekis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior software engineer based in Greece.
 
-Here are some ideas to get you started:
+I recently graduated from the [School of Informatics](https://www.csd.auth.gr/en/) at Aristotle University of Thessaloniki, where I specialized in Communication Networks & Systems Security. I'm now looking for my first role in software or data engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+- **Languages:** Python, Java, SQL
+- **Currently exploring:** Linux, containerization, distributed systems
+
+### Currently
+
+- Building side projects to deepen my hands-on experience
+- Open to junior software / data engineering opportunities
+
+### Reach me
+
+- LinkedIn: [in/ioakeim-mertekis](https://www.linkedin.com/in/ioakeim-mertekis/)
