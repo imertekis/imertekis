@@ -8,10 +8,6 @@ I recently graduated from the [School of Informatics](https://www.csd.auth.gr/en
 
 - **Languages:** Python, Java, SQL
 - **Currently exploring:** Linux, containerization, distributed systems
-
-### Currently
-
-- Building side projects to deepen my hands-on experience
 - Open to junior software / data engineering opportunities
 
 ### Reach me
