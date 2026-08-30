@@ -2,7 +2,7 @@
 
 Junior software engineer based in Greece.
 
-I recently graduated from the [School of Informatics](https://www.csd.auth.gr/en/) at Aristotle University of Thessaloniki, where I specialized in Communication Networks & Systems Security. I'm now looking for my first role in software or data engineering.
+I recently graduated from the [School of Informatics](https://www.csd.auth.gr/en/) at Aristotle University of Thessaloniki. I'm now looking for my first role in software or data engineering.
 
 ### What I work with
 
